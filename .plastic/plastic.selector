@@ -1,0 +1,4 @@
+repository "The last drop@smitaparida@cloud"
+  path "/"
+    br "/main"
+    co "/main"
